@@ -1,0 +1,17 @@
+body {
+  margin-top: 20px;
+}
+
+label {
+  width: 30%;
+}
+
+input {
+  width: 50%;
+}
+
+.hidden {
+  display: none;
+}
+
+Hotjar: See how your visitors are really using your website.
